@@ -7,3 +7,6 @@
 [submodule "pixelopolis_station_app"]
 	path = pixelopolis_station_app
 	url = https://github.com/thebitstudio/pixelopolis_station_app
+[submodule "pixelopolis_board_app"]
+	path = pixelopolis_board_app
+	url = https://github.com/thebitstudio/pixelopolis_board_app
