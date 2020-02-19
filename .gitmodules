@@ -4,3 +4,6 @@
 [submodule "pixelopolis_ml"]
 	path = pixelopolis_ml
 	url = https://github.com/thebitstudio/pixelopolis_ml
+[submodule "pixelopolis_station_app"]
+	path = pixelopolis_station_app
+	url = https://github.com/thebitstudio/pixelopolis_station_app
