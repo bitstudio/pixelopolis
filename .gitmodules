@@ -1,0 +1,6 @@
+[submodule "pixelopolis_car_app"]
+	path = pixelopolis_car_app
+	url = https://github.com/thebitstudio/pixelopolis_car_app
+[submodule "pixelopolis_ml"]
+	path = pixelopolis_ml
+	url = https://github.com/thebitstudio/pixelopolis_ml
