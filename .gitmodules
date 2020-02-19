@@ -10,3 +10,6 @@
 [submodule "pixelopolis_board_app"]
 	path = pixelopolis_board_app
 	url = https://github.com/thebitstudio/pixelopolis_board_app
+[submodule "pixelopolis_server_app"]
+	path = pixelopolis_server_app
+	url = https://github.com/thebitstudio/pixelopolis_server_app
